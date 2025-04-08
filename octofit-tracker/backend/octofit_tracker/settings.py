@@ -84,8 +84,8 @@ DATABASES = {
         "CLIENT": {
             "host": "localhost",
             "port": 27017,
-            "username": "testadmin",
-            "password": "testpassword",
+            "username": "<your-username>",
+            "password": "<your-password>",
             "authSource": "admin",
         },
     }
